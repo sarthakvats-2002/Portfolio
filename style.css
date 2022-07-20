@@ -385,17 +385,18 @@ section .title::after{
 }
 .skills .skills-content .left .bars .More{
     margin: 10px;
+    margin-left: 3px;
 }
 .skills .skills-content .left .bars .One{
-    margin-left: 15px;
+    margin-left: 0;
 }
 .skills .skills-content .left .bars img{
-    width: 80px;
+    width: 62px;
     height: 68px;
 }
 .skills .skills-content .left .info{
     display: flex;
-    margin-left: 5px;
+    margin-left: 16px;
     margin-bottom: 5px;
     margin-top: 10px;
     align-items: center;
